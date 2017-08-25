@@ -4,7 +4,7 @@
     "description": "Library for config-driven WordPress shortcodes",
     "type": "library",
     "require": {
-        "composer/installers": "^1.4"
+        "composer/installers": "^0.1.0"
     },
     "authors": [
         {
